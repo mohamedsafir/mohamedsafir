@@ -5,10 +5,10 @@
 </p>
 
 ## 👨‍💻 About Me
-* 🎓 **Education:** Master of Computer Applications (MCA) at Kalasalingam Academy of Research and Education (Expected July 2026)[cite: 1] | B.Sc. in Computer Science from Syed Hameedha Arts & Science College[cite: 1] (June 2024).
-* 💡 **Professional Focus:** Full-Stack Developer specializing in the MERN stack and Python[cite: 1]. Experienced in building responsive web applications, robust REST APIs, and integrating AI-powered solutions like RAG and LLMs into production environments[cite: 1].
-* 🎯 **Core Competencies:** Strong foundation in Data Structures and Algorithms (DSA), Object-Oriented Programming (OOP), and Agile methodologies[cite: 1].
-* 📫 **Reach out to me:** **[Insert Email]** | **[Insert LinkedIn]** | **[Insert LeetCode]**[cite: 1]
+* 🎓 **Education:** Master of Computer Applications (MCA) at Kalasalingam Academy of Research and Education (Expected July 2026) | B.Sc. in Computer Science from Syed Hameedha Arts & Science College(June 2024).
+* 💡 **Professional Focus:** Full-Stack Developer specializing in the MERN stack and Python. Experienced in building responsive web applications, robust REST APIs, and integrating AI-powered solutions like RAG and LLMs into production environments.
+* 🎯 **Core Competencies:** Strong foundation in Data Structures and Algorithms (DSA), Object-Oriented Programming (OOP), and Agile methodologies.
+* 📫 **Reach out to me:** **[mohamedsafir6237@gmail.com]** | **[https://www.linkedin.com/in/mohamed-safir]** | **[https://leetcode.com/u/MohamedSafir/)]**
 
 ---
 
