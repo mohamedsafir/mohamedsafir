@@ -1,15 +1,36 @@
 # Hi there, I'm Mohamed Safir! 👋
 
+<!-- Dynamic Visitor Counter -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mohamedsafir&label=Profile+Views&color=27AE60&style=flat-square" alt="Profile Views" />
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=27AE60&center=true&vCenter=true&width=500&lines=Full-Stack+MERN+Developer;AI+%26+ML+Engineer;Python+%26+Streamlit;Problem+Solver" alt="Typing SVG" />
 </p>
+
+<!-- Clickable Social Badges -->
+<p align="center">
+  <a href="mailto:mohamedsafir6237@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohamed-safir">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/MohamedSafir/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
+  </a>
+</p>
+
+---
 
 ## 👨‍💻 About Me
 
 * 🎓 **Education:** Master of Computer Applications (MCA) @ Kalasalingam Academy (2026) | B.Sc. Computer Science @ Syed Hameedha College (2024).
 * 💡 **What I Build:** Full-Stack platforms (MERN & Python), robust REST APIs, and production-ready AI integrations (RAG, LLMs).
 * 🎯 **Core Competencies:** Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), and Agile methodologies.
-* 📫 **Reach Out:** [Email](mailto:mohamedsafir6237@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mohamed-safir) | [LeetCode](https://leetcode.com/u/MohamedSafir/)
+
+---
 
 ## 🚀 Featured Projects
 
@@ -22,7 +43,7 @@
 
 ## 💼 Experience
 
-* **Web Development Intern** | *Infotact Solutions* (Dec 2025 - Mar 2026).
+* **Web Development Intern** | *Infotact Solutions* (Dec 2025 - Mar 2026)
   * Engineered responsive React.js UI components and integrated Node.js/Express.js RESTful APIs, cutting data retrieval latency by 15%.
 * **Full Stack Web Development Intern** | *Future Interns* (Dec 2025)
   * Developed scalable MERN stack web applications and secured platform access with JWT-based authentication.
@@ -71,4 +92,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohamedsafir&show_icons=true&theme=radical&hide_border=true" alt="Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedsafir&theme=radical&hide_border=true" alt="Streak" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedsafir&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="60%" />
 </p>
