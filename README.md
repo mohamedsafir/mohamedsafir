@@ -16,19 +16,19 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **Context-Aware Corporate Knowledge Assistant** | Enterprise RAG platform utilizing Google Gemini API for semantic search across large corporate documents, reducing query retrieval latency by 35%.[cite: 1] | MongoDB Atlas, Express.js, React.js, Node.js, Gemini API[cite: 1] |
-| **Resume Screening Using ML** | AI-driven application achieving 90%+ accuracy in matching candidate profiles to job descriptions using TF-IDF Vectorization and Cosine Similarity.[cite: 1] | Python, Scikit-learn, Streamlit, NLTK[cite: 1] |
+| **Context-Aware Corporate Knowledge Assistant** | Enterprise RAG platform utilizing Google Gemini API for semantic search across large corporate documents, reducing query retrieval latency by 35%. | MongoDB Atlas, Express.js, React.js, Node.js, Gemini API |
+| **Resume Screening Using ML** | AI-driven application achieving 90%+ accuracy in matching candidate profiles to job descriptions using TF-IDF Vectorization and Cosine Similarity. | Python, Scikit-learn, Streamlit, NLTK |
 
 ---
 
 ## 💼 Experience
 
-* **Web Development Intern** | *Infotact Solutions* (Dec 2025 - Mar 2026)[cite: 1]
-  * Engineered responsive React.js UI components and integrated Node.js/Express.js RESTful APIs, cutting data retrieval latency by 15%.[cite: 1]
-* **Full Stack Web Development Intern** | *Future Interns* (Dec 2025)[cite: 1]
-  * Developed scalable MERN stack web applications and secured platform access with JWT-based authentication.[cite: 1]
-* **AI & Cloud Technologies Intern** | *Edunet Foundation* (Sep 2025 - Oct 2025)[cite: 1]
-  * Trained predictive ML models with Python and Scikit-learn, deploying them into scalable production environments on IBM Cloud.[cite: 1]
+* **Web Development Intern** | *Infotact Solutions* (Dec 2025 - Mar 2026).
+  * Engineered responsive React.js UI components and integrated Node.js/Express.js RESTful APIs, cutting data retrieval latency by 15%.
+* **Full Stack Web Development Intern** | *Future Interns* (Dec 2025)
+  * Developed scalable MERN stack web applications and secured platform access with JWT-based authentication.
+* **AI & Cloud Technologies Intern** | *Edunet Foundation* (Sep 2025 - Oct 2025)
+  * Trained predictive ML models with Python and Scikit-learn, deploying them into scalable production environments on IBM Cloud.
 
 ---
 
@@ -62,8 +62,8 @@
 
 ## 🏆 Certifications & Hackathons
 
-* **Certifications:** HTML & CSS in Depth (Coursera), JavaScript (Scaler), APIs (Coursera), Python (GUVI), Artificial Intelligence Fundamentals (IBM).[cite: 1]
-* **Hackathons:** Meta x Scaler School of Technology Hackathon (2026), DataSprint ML Hackathon (NIST, 2026), HackerRank Orchestrate.[cite: 1]
+* **Certifications:** HTML & CSS in Depth (Coursera), JavaScript (Scaler), APIs (Coursera), Python (GUVI), Artificial Intelligence Fundamentals (IBM).
+* **Hackathons:** Meta x Scaler School of Technology Hackathon (2026), DataSprint ML Hackathon (NIST, 2026), HackerRank Orchestrate.
 
 ---
 
