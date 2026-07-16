@@ -2,11 +2,11 @@
   <!-- Dynamic Visitor Counter -->
   <img src="https://komarev.com/ghpvc/?username=mohamedsafir&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
 
-  <!-- Animated Waving Hand & Name -->
-  <h1>Hi there, I'm Mohamed Safir! <img src="https://media.giphy.com/media/mGcnDi111HvkqbHNkQ/giphy.gif" width="30px"></h1>
+  <!-- Animated Waving Hand & Name (Fixed GIF Source) -->
+  <h1>Hi there, I'm Mohamed Safir! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-  <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0e75b6&center=true&vCenter=true&width=500&lines=Full-Stack+MERN+Developer;AI+%26+ML+Engineer;Python+%26+Streamlit;Problem+Solver" alt="Typing SVG" />
+  <!-- Typing Animation (Fixed Server Source) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0e75b6&center=true&vCenter=true&width=500&lines=Full-Stack+MERN+Developer;AI+%26+ML+Engineer;Python+%26+Streamlit;Problem+Solver" alt="Typing SVG" />
 
   <br><br>
   <!-- Clickable Social Badges -->
