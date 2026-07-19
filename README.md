@@ -32,7 +32,6 @@
 | :--- | :--- | :--- |
 | **Corporate Knowledge Assistant** | Enterprise RAG platform utilizing Google Gemini API for semantic search across large corporate documents, cutting retrieval latency by 35%. | MERN, Gemini API |
 | **Epidemic Sentinel AI** | A robust prototype utilizing time-series forecasting to track and predict outbreak trends effectively. | Python, Streamlit |
-| **Placement Prep Platform** | A comprehensive full-stack application designed to optimize user preparation for technical corporate evaluations. | MERN Stack |
 | **Resume Screening Using ML** | AI-driven application achieving 90%+ accuracy in matching candidate profiles to job descriptions using TF-IDF Vectorization. | Python, Scikit-learn, NLTK |
 
 ---
